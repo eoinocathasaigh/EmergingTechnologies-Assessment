@@ -15,3 +15,9 @@ The project focuses on several core concepts in emerging technologies, particula
 3. **Quantum Oracles**
 4. **Deutsch's Algorithm with Qiskit**
 5. **Scaling to the Deutsch–Jozsa Algorithm**
+
+## Cloning this Repository
+Follow these simple steps to clone the repository to your local device and access full functionalities
+1. In command line in appropriate chosen directory run `git clone https://github.com/eoinocathasaigh/EmergingTechnologies-Assessment`
+2. To install dependencies ensure you run: `pip install requirements.txt`
+3. To run and open the notebook run: `jupyter notebook problems.ipynb`
