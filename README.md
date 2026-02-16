@@ -21,3 +21,8 @@ Follow these simple steps to clone the repository to your local device and acces
 1. In command line in appropriate chosen directory run `git clone https://github.com/eoinocathasaigh/EmergingTechnologies-Assessment`
 2. To install dependencies ensure you run: `pip install requirements.txt`
 3. To run and open the notebook run: `jupyter notebook problems.ipynb`
+
+## Sources
+The sources I used for my self driven learning in this project include:
+- [IBM Quantum Computing](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/single-systems/introduction)
+- [Quantum Computings Supremacy - John Preskill](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
