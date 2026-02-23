@@ -26,3 +26,4 @@ Follow these simple steps to clone the repository to your local device and acces
 The sources I used for my self driven learning in this project include:
 - [IBM Quantum Computing](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/single-systems/introduction)
 - [Quantum Computings Supremacy - John Preskill](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
+- [Video Resource - Understanding the Deutsch Jozsa Algorithm in Code](https://www.youtube.com/watch?v=4kXjGTEufXg)
