@@ -1,1 +1,15 @@
-The following are the basic requirements/prerequisites that must be fulfiled to ensure the project works as required:
+#The following are the dependencies for this project, prior to use please ensure you have these installed in your Python environment. 
+# You can install them using pip install requirements.txt or just pip:
+
+# Numerical arrays.
+numpy
+# Data Frames.
+pandas
+# Scientific computing.
+scipy
+# Plotting.
+matplotlib
+# Quantum computing.
+qiskit[visualization]
+# Quantum simulators.
+qiskit-aer

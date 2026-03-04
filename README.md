@@ -19,7 +19,7 @@ The project focuses on several core concepts in emerging technologies, particula
 ## Cloning this Repository
 Follow these simple steps to clone the repository to your local device and access full functionalities
 1. In command line in appropriate chosen directory run `git clone https://github.com/eoinocathasaigh/EmergingTechnologies-Assessment`
-2. To install dependencies ensure you run: `pip install requirements.txt`
+2. To install dependencies ensure you run this from the command line: `pip install requirements.txt`
 3. To run and open the notebook run: `jupyter notebook problems.ipynb`
 
 ## Sources
