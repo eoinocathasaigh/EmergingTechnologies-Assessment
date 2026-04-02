@@ -13,3 +13,5 @@ matplotlib
 qiskit[visualization]
 # Quantum simulators.
 qiskit-aer
+#Visualization - needed for the representation of the graphs from the quantum circuits.
+pylatexenc
