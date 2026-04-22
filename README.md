@@ -27,3 +27,5 @@ The sources I used for my self driven learning in this project include:
 - [IBM Quantum Computing](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/single-systems/introduction)
 - [Quantum Computings Supremacy - John Preskill](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
 - [Video Resource - Understanding the Deutsch Jozsa Algorithm in Code](https://www.youtube.com/watch?v=4kXjGTEufXg)
+- [Qiskit Deutsch & Deutsch-Jozsa algorithm explained Video](https://www.youtube.com/watch?v=QcK0GK7DUh8) - Helped me more with the understanding of the algorithms
+- [Deutsch-Jozsa Algorithm: Exponential Speedup on a Quantum Computer!](https://www.youtube.com/watch?v=jfJckA7Amik) - Also helped me with a conceptual understanding of the algorithms
